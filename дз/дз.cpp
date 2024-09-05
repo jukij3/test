@@ -27,5 +27,4 @@ int main() {
         del = num1 / num2;
         cout << " " << del << endl;
     }
-
 }
